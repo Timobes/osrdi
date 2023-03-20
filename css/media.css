@@ -2,4 +2,8 @@
     .button{
         width: 250px;
     } 
+
+    .text_desription{
+        font-size: 17px;
+    }
 }
