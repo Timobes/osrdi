@@ -2,6 +2,9 @@ body{
     background: #E5E5E5;
 }
 
+.none_block_resize{
+    display: none;
+}
 
 .header{
     display: flex;
